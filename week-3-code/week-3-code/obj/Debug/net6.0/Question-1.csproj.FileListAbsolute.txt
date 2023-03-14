@@ -1,0 +1,15 @@
+C:\Users\MELTUser01\source\repos\Week-3-Code\Week-3-Code\bin\Debug\net6.0\Question-1.exe
+C:\Users\MELTUser01\source\repos\Week-3-Code\Week-3-Code\bin\Debug\net6.0\Question-1.deps.json
+C:\Users\MELTUser01\source\repos\Week-3-Code\Week-3-Code\bin\Debug\net6.0\Question-1.runtimeconfig.json
+C:\Users\MELTUser01\source\repos\Week-3-Code\Week-3-Code\bin\Debug\net6.0\Question-1.dll
+C:\Users\MELTUser01\source\repos\Week-3-Code\Week-3-Code\bin\Debug\net6.0\Question-1.pdb
+C:\Users\MELTUser01\source\repos\Week-3-Code\Week-3-Code\obj\Debug\net6.0\Question-1.csproj.AssemblyReference.cache
+C:\Users\MELTUser01\source\repos\Week-3-Code\Week-3-Code\obj\Debug\net6.0\Question-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser01\source\repos\Week-3-Code\Week-3-Code\obj\Debug\net6.0\Question-1.AssemblyInfoInputs.cache
+C:\Users\MELTUser01\source\repos\Week-3-Code\Week-3-Code\obj\Debug\net6.0\Question-1.AssemblyInfo.cs
+C:\Users\MELTUser01\source\repos\Week-3-Code\Week-3-Code\obj\Debug\net6.0\Question-1.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser01\source\repos\Week-3-Code\Week-3-Code\obj\Debug\net6.0\Question-1.dll
+C:\Users\MELTUser01\source\repos\Week-3-Code\Week-3-Code\obj\Debug\net6.0\refint\Question-1.dll
+C:\Users\MELTUser01\source\repos\Week-3-Code\Week-3-Code\obj\Debug\net6.0\Question-1.pdb
+C:\Users\MELTUser01\source\repos\Week-3-Code\Week-3-Code\obj\Debug\net6.0\Question-1.genruntimeconfig.cache
+C:\Users\MELTUser01\source\repos\Week-3-Code\Week-3-Code\obj\Debug\net6.0\ref\Question-1.dll
